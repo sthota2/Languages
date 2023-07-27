@@ -1,2 +1,4 @@
 # Ignore the Following files
 *.idea*
+GO/BOOKING-APP/go.mod
+.vscode/extensions.json
